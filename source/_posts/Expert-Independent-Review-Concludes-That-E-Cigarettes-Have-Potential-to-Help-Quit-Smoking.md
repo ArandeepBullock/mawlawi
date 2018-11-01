@@ -4,6 +4,8 @@ date: 2018-11-01 14:33:00
 category: Healthy Lifestyle
 ---
 
+# For heavy smokers who cannot quit smoking immediately, E-cigarettes are the best alternatives for health concerns.
+
 In August 2018, Public Health England published an evidence review. This review concludes that e-cigarettes are significantly less harmful to health than tobacco and have the potential to help smokers quit smoking. The review also states that nearly half the population (44.8%) don’t realize e-cigarettes are much less harmful than smoking.
 
 <!-- more -->
@@ -18,6 +20,6 @@ A rechargeable E-cigarette with a refillable tank delivers nicotine more effecti
 
 ![](/images/10.png)
 
-If one is looking for an entry-level vape, the DOT Vape Kit could be a great option. This Kit is equipped with [new vaping technology] (http://www.feelmtech.com/). The FEELM wicking and coil design are unique. Unlike tradition coil, FEELM uses a special ceramic cube with an integrated flat metal film to replace traditional coil. Two wires stick out of the bottom of the ceramic block for the connection, an S-shape metal film embedded in the bottom, which give clean and warm flavor. Such design by [FEELM] (http://www.feelmtech.com/) also effectively avoids leaking, spitting, or popping. In addition, the plug-and-play design is very user-friendly.
+If one is looking for an entry-level vape, the DOT Vape Kit could be a great option. This Kit is equipped with [new vaping technology](http://www.feelmtech.com/). The FEELM wicking and coil design are unique. Unlike tradition coil, FEELM uses a special ceramic cube with an integrated flat metal film to replace traditional coil. Two wires stick out of the bottom of the ceramic block for the connection, an S-shape metal film embedded in the bottom, which give clean and warm flavor. Such design by [FEELM](http://www.feelmtech.com/) also effectively avoids leaking, spitting, or popping. In addition, the plug-and-play design is very user-friendly.
 
 “E-cigarettes are not completely risk free. But when compared to smoking, evidence shows they carry just a fraction of the harm. E-cigarettes are particularly effective when combined with expert help from a local stop smoking service.”, said Professor Kevin Fenton, the Director of Health and Wellbeing at Public Health England.
