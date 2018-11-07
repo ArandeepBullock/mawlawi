@@ -1,7 +1,7 @@
 ---
 title: Top 10 Hot Vape Young girls on Instagram
 date: 2018-9-26 15:35:00
-category: Instagram Vaping
+category: instagram vaping
 ---
 
 ![](/images/8.jpg)
