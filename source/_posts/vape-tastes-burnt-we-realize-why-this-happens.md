@@ -1,7 +1,7 @@
 ---
 title: Vape Tastes Burnt? We Realize Why This Happens
 date: 2018-9-12 08:46:00
-category: Vape Magazine 2018
+category: vape magazine 2018
 ---
 
 ![](/images/6.jpg)
