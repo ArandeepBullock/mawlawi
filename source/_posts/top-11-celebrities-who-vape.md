@@ -1,7 +1,7 @@
 ---
 title: Top 11 Celebrities Who Vape
 date: 2018-8-21 08:00:00
-category: Futured Vape Post
+category: futured vape post
 ---
 
 ![](/images/1.jpg)
