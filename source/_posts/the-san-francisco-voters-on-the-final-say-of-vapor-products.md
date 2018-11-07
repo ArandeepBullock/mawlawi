@@ -1,7 +1,7 @@
 ---
 title: The San Francisco Voters On The Final Say Of Vapor Products
 date: 2018-8-25 10:45:00
-category: Futured Vape Post
+category: futured vape post
 ---
 
 ![](/images/2.jpg)
