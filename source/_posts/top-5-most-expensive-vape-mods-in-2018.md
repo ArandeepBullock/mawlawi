@@ -1,7 +1,7 @@
 ---
 title: Top 5 Most Expensive Vape Mods In 2018
 date: 2018-8-20 13:10:00
-category: Vape Magazine 2018
+category: vape magazine 2018
 ---
 
 ![](/images/5.jpg)
