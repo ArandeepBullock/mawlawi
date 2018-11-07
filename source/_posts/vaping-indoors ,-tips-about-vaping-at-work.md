@@ -1,7 +1,7 @@
 ---
 title: Vaping Indoors , Tips about Vaping at Work
 date: 2018-9-20 10:00:00
-category: Trending Now
+category: trending now
 ---
 
 ![](/images/7.jpg)
