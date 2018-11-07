@@ -1,7 +1,7 @@
 ---
 title: Illinois Anti-Smoking Costs Conflates Tobacco with E-Liquid
 date: 2018-9-18 09:20:00
-category: Healthy Lifestyle
+category: healthy lifestyle
 ---
 
 ![](/images/4.jpg)
