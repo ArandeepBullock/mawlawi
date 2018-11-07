@@ -1,7 +1,7 @@
 ---
 title: Why The Myth Of A Cancer-Causing Vape Has Already Been Busted
 date: 2018-9-07 12:00:00
-category: Healthy Lifestyle
+category: healthy lifestyle
 ---
 
 ![](/images/3.jpg)
